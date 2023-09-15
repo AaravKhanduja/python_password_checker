@@ -23,7 +23,7 @@ If the above command does not work follow the three steps:
 4. And then run 
 `python3 main.py {input_password_to_check}`
 
- The code will successfully compile and tell you how many times the password was found and whether you should change your password 
+ The code will successfully compile and tell you how many times the password was found and whether you should change your password. 
  
  This is the most secure way to check if your password has been leaked.
  
