@@ -16,14 +16,12 @@ Go to main.py download the file and run the following command on terminal for Ma
 If the above command does not work follow the three steps:
 
 1. Download main.py and move it to your desktop 
-2. Then run 
-```bash
-cd Desktop/
-```
-3. And then run 
-```bash
-python3 main.py {input_password_to_check}
-```
+2. Then run
+   
+`cd Desktop/`
+
+4. And then run 
+`python3 main.py {input_password_to_check}`
 
  The code will successfully compile and tell you how many times the password was found and whether you should change your password 
  
