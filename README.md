@@ -16,11 +16,11 @@ Download main.py (https://shorturl.at/kmvzV) and run the following command on te
 If the above command does not work follow the three steps:
 
 1. Download main.py(https://shorturl.at/kmvzV) and move it to your desktop 
-2. Then run
+2. Then run the following command on terminal
    
 `cd Desktop/`
 
-3. And then run 
+3. And then run the following command on terminal
 `python3 main.py {input_password_to_check}`
 
  The code will successfully compile and tell you how many times the password was found and whether you should change your password. 
