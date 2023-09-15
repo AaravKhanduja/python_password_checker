@@ -17,8 +17,8 @@ def get_password_leaks_count(hashes, hash_to_check):
     return 0 
  
 def pwned_api_check(password):
-    shah1password = hashlib.sha1(password.encode('utf-8')).hexdigest().upper()
-    first5_char, tail = shah1password[:5], shah1password[5:]
+    sha1password = hashlib.sha1(password.encode('utf-8')).hexdigest().upper()
+    first5_char, tail = sha1password[:5], sha1password[5:]
     response = request_api_data(first5_char)
     print (response)
     return get_password_leaks_count(response, tail)
