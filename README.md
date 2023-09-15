@@ -1,6 +1,13 @@
 # python_password_checker
 
-USAGE
+## Table of Contents 📚
+
+- [Features](#features-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- USAGE (#usage-)
 
 Go to main.py donwload the file and run the following command on terminal for mac or equivalent on windows/linux
 
