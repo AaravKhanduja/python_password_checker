@@ -25,7 +25,7 @@ If the above command does not work follow the three steps:
 
  The code will successfully compile and tell you how many times the password was found and whether you should change your password. 
  
- This is the most secure way to check if your password has been leaked.
+ This project is the most secure way to check if your password has been leaked.
  
  Follow me on Linkedin https://www.linkedin.com/in/aarav-khanduja-0467191b0/
 
