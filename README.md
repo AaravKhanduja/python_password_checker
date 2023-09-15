@@ -17,8 +17,7 @@ If the above command does not work follow the three steps:
 
 1. Download main.py(https://shorturl.at/kmvzV) and move it to your desktop 
 2. Then run the following command on terminal
-   
-`cd Desktop/`
+   `cd Desktop/`
 
 3. And then run the following command on terminal
 `python3 main.py {input_password_to_check}`
