@@ -6,7 +6,7 @@
 Go to main.py donwload the file and run the following command on terminal for mac or equivalent on windows/linux
 
 ```bash
-python3 main.py {input password to check if compromised}
+python3 main.py {password}
 ```
 
  The code will successfully compile and tell you how many times the password was found and whether you should change your password 
