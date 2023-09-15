@@ -11,7 +11,7 @@ You will need a stable internet connection to run this code as it is connecting 
 Go to main.py download the file and run the following command on terminal for Mac or equivalent on Windows/Linux
 
 ```bash
-python3 {main.py file location} {input_password_to_check}
+python3 {main.py_file_location} {input_password_to_check}
 ```
 
  The code will successfully compile and tell you how many times the password was found and whether you should change your password 
