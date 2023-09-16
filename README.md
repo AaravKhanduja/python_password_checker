@@ -7,6 +7,7 @@ This project uses Troy Hunt's Have I Been Pwned API to check whether the first f
 
 ## Usage
 
+Ensure that you have downloaded the latest version of Python. 
 You will need a stable internet connection to run this code as it is connecting to an external API.
 
 Download main.py (https://shorturl.at/kmvzV) and run the following command on terminal for Mac or equivalent on Windows/Linux
