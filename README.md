@@ -10,14 +10,14 @@ This project uses Troy Hunt's Have I Been Pwned API to check whether the first f
 Ensure that you have downloaded the latest version of Python. 
 You will need a stable internet connection to run this code as it is connecting to an external API.
 
-Download main.py (https://shorturl.at/kmvzV) and run the following command on terminal for Mac or equivalent on Windows/Linux
+Download main.py and run the following command on the terminal for Mac or equivalent on Windows/Linux
 
 `python3 {main.py_file_path} {input_password_to_check}`
 
 If the above command does not work follow the three steps:
 
-1. Download main.py(https://shorturl.at/kmvzV) and move it to your desktop 
-2. Then run the following command on terminal
+1. Download main.py and move it to your desktop 
+2. Then run the following command on the terminal
    `cd Desktop/`
 
 3. And then run the following command on terminal
